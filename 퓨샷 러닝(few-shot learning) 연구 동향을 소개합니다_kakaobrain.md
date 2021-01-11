@@ -224,4 +224,5 @@ TPN과 GNN의 또 다른 차이점은 한 그래프에서 참고하는 서포트
 
 수많은 동물을 직접 키워보며 어른이 되면 꼭 식물학자가 되리라는 꿈을 안고 자연 속에서 유년기를 보냈습니다. 어쩌다가 4차 산업혁명이라는 시대적 흐름에 휘말려(?) 자연 대신 인공지능과 청년기를 보내고 말았군요. 세상의 수많은 것을 정말 빠른 속도로 혁신하는 인공지능에 그저 감탄할 뿐입니다. 현재 카카오브레인에서 AutoLearn 팀원들과 함께 스스로 학습 규칙을 익히는 인공지능 기술을 연구하고 있습니다. 우리의 미래, 다음 세대의 미래를 지금보다 아름답게 만드는 데 이바지하고 싶습니다.
 
-Copyright © KAKAO BRAIN Corp. All rights reserved. | [오픈소스 라이센스](
+Copyright © KAKAO BRAIN Corp. All rights reserved. | [오픈소스 라이센스](https://www.kakaobrain.com/open_source)
+
