@@ -20,4 +20,4 @@
 
 * 참고 강의
   * [Learning to learn unlearned feature for segmentation](https://tv.naver.com/v/5581357)
-  * [Gradient-based Meta-learning with learned layerwise subspace and metric](
+  * [Gradient-based Meta-learning with learned layerwise subspace and metric](https://youtu.be/bMpdIPKEa7E)
