@@ -21,3 +21,12 @@
 * 참고 강의
   * [Learning to learn unlearned feature for segmentation](https://tv.naver.com/v/5581357)
   * [Gradient-based Meta-learning with learned layerwise subspace and metric](https://youtu.be/bMpdIPKEa7E)
+
+
+## SKT
+
+![img](https://lh6.googleusercontent.com/2Jg6xaYjdFJrHAd72pvfA-oWtedS9jmfEmt34Avo7DmGWcpdk7zptFtxyvC-VvuXlvBLL3ISlGAAtF5FfYJEnixn5mZ0SlRQ95LjBfwZewRUSmzJd4PIzzNyPl6jgcU-MvdYcLL8Y48)
+
+![img](https://lh4.googleusercontent.com/6cD_BeVCFv-nwJQ_HOAtIqWfbQg183yLuQ6RWRP5tb9dQcAqcyJqr_66vG_PyipGTIvgM6glz_XIdnvj8urZzlolARp0gkoHAn_bTJzBsHJ4j-3VEl8LHK_hl73WqhwespSRULpG2ys)
+
+![img](https://lh4.googleusercontent.com/iMHofx8_b6DdoT4quqOpzNhRbfi4BJ8jWQYlmqs6N0Fx49v4i1XWyW9KwuL-SqSDPMR8HglFvaYRA4Ke8DSPCsI_qAMqQFtOcAe5su836Jz5UVvXRDSAK4_ofcu2WQ7QHyfMWbqdHSs)
